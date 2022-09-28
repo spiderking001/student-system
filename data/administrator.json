@@ -1,0 +1,49 @@
+[
+  {
+    "id": 0,
+    "account": 13312341234,
+    "password": "abcdefg",
+    "name": "王二小",
+    "age": "30",
+    "email": "xxx@qq.com",
+    "isSuperAdmin": true,
+    "incumbency": true
+  },
+  {
+    "id": 1,
+    "account": 13312341235,
+    "password": "abcdefg",
+    "name": "王退休",
+    "age": "30",
+    "email": "xxx@qq.com",
+    "isSuperAdmin": true,
+    "incumbency": false
+  },
+  {
+    "id": 2,
+    "account": 15512341236,
+    "password": "abcdefg",
+    "name": "王普通",
+    "age": "30",
+    "email": "xxx@qq.com",
+    "isSuperAdmin": false,
+    "incumbency": true
+  },
+  {
+    "id": "5",
+    "name": "王艺诺",
+    "age": "18",
+    "account": "18453331385",
+    "gender": "0"
+  },
+  {
+    "name": "王端澳",
+    "age": "12",
+    "account": "13312341231",
+    "gender": "1",
+    "password": "123456",
+    "incumbency": true,
+    "isSuperAdmin": false,
+    "id": "6"
+  }
+]
